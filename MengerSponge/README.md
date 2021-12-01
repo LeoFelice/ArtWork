@@ -1,6 +1,6 @@
 # Menger Sponge
 ## Video Download
-[Menger Sponge Animation](https://github.com/LeoFelice/ArtWork/raw/main/MengerSponge/Video/SpongeFin.mp4)
+[Menger Sponge Animation](https://github.com/LeoFelice/ArtWork/blob/main/MengerSponge/Video/SpongeFin.mp4)
 
 ## Tools
 - blender
