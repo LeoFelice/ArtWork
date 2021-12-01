@@ -1,3 +1,3 @@
 # Menger Sponge
 
-![This is an image](/Images/Render03.png)
+![This is an image](MengerSponge/Images/Render03.png)
