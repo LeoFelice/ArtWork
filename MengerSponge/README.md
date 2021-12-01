@@ -1,5 +1,8 @@
 # Menger Sponge
-## Tools:
+## Video Download
+[Menger Sponge Animation](https://github.com/LeoFelice/ArtWork/raw/main/MengerSponge/Video/SpongeFin.mp4)
+
+## Tools
 - blender
 
 ## Motiv
@@ -9,8 +12,6 @@ Hierbei handelt es sich um eine diskrete Darstellung, da sich der Menger Sponge 
 ## Technic
 **Geometry Nodes** 
 ist eine Node (Knoten) bassierte blender spezifische Programmiersprache die es ermöglicht Geometrien zu manipulieren. Dabei können komplexe Programme erstellt ähnlich wie die Nodebasierten Materialien.
-
-
 
 ## Verschieden Basis Würfel  
 Der Menger Sponge wird itterativ mit Geometry Nodes aus einem Basis Würfel erzeugt. Für die Lichtquellen wurde ein Set aus drei verschiedenen Leuchtelementen verwendet das ebefalls iterativ in die den zwischen Räumen des Menger Sponge erzeugt werden. 
@@ -39,3 +40,6 @@ FÜr Animation werden die Transformation einzelnen Würfel abhängig vom aktuell
 ![Menger Sponge](https://github.com/LeoFelice/ArtWork/blob/main/MengerSponge/Images/renderCubeAnim.png?raw=true)
 ![Menger Sponge](https://github.com/LeoFelice/ArtWork/blob/main/MengerSponge/Images/renderCubeAnimBigLight.png?raw=true)
 ![Menger Sponge](https://github.com/LeoFelice/ArtWork/blob/main/MengerSponge/Images/renderCubeAnimwith%20light.png?raw=true)
+
+## Test Video Download
+[Animation 1 It](https://github.com/LeoFelice/ArtWork/blob/main/MengerSponge/Video/SpongeFin.mp4)
