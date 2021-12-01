@@ -2,6 +2,8 @@
 ## Video Download
 [Menger Sponge Animation](https://github.com/LeoFelice/ArtWork/blob/main/MengerSponge/Video/SpongeFin.mp4)
 
+Sollte der Link nicht Funktionieren, kann es am Browser liegen.
+
 ## Tools
 - blender
 
