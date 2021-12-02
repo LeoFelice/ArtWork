@@ -9,14 +9,14 @@ Sollte der Link nicht Funktionieren, kann es am Browser liegen.
 
 ## Motiv
 Beim  **Menger Sponge** handelt es sich um eine Fraktal Struktur [Wiki: Menger Schwamm](https://de.wikipedia.org/wiki/Menger-Schwamm). 
-Hierbei handelt es sich um eine diskrete Darstellung, da sich der Menger Sponge aus einer begrenzten Anzahl Würfeln zusammen setzt.
+In diesem Projekt sprechen wir von einer diskrete Darstellung, da sich der Menger Sponge aus einer begrenzten Anzahl Würfeln zusammen setzt.
 
 ## Technic
 **Geometry Nodes** 
 ist eine Node (Knoten) bassierte blender spezifische Programmiersprache die es ermöglicht Geometrien zu manipulieren. Dabei können komplexe Programme erstellt ähnlich wie die Nodebasierten Materialien.
 
 ## Verschieden Basis Würfel  
-Der Menger Sponge wird itterativ mit Geometry Nodes aus einem Basis Würfel erzeugt. Für die Lichtquellen wurde ein Set aus drei verschiedenen Leuchtelementen verwendet das ebefalls iterativ in die den zwischen Räumen des Menger Sponge erzeugt werden. 
+Der Menger Sponge wird itterativ mit Geometry Nodes aus einem Basis Würfel erzeugt. Für die Lichtquellen wird ein Set aus drei verschiedenen Leuchtelementen verwendet, die ebefalls iterativ in die den zwischen Räumen des Menger Sponge erzeugt werden. 
 
 Folgende Bilder zeigen drei Beispiele für verschiedene Materialien und Beleuchtung. 
 
